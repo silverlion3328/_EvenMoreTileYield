@@ -7,8 +7,8 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-		    "[75]% Yield from every [Terrain] <for [Human player]>",
-		    "[-75]% Yield from every [Natural Wonder] <for [AI player]>",
-	            "[75]% Yield from every [Natural Wonder] <for [Human player]>"]
+		    "[50]% Yield from every [Terrain] <for [Human player]>",
+		    "[-50]% Yield from every [Natural Wonder] <for [AI player]>",
+	            "[50]% Yield from every [Natural Wonder] <for [Human player]>"]
 	},
 ]
