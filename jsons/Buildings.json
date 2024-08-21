@@ -1,13 +1,13 @@
 
 [
 	{
-		"name": "50% more tile yield activated!",
+		"name": "10x more tile yield activated!",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
 		    "Unbuildable <for [AI player]>",
-		    "[50]% Yield from every [Terrain] <for [Human player]>"]
+		    "[900]% Yield from every [Terrain] <for [Human player]>"]
 	},
 ]
